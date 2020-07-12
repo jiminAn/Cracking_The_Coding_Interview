@@ -1,4 +1,4 @@
-# The Interview Process
+# CH1. The Interview Process
 : Assesment of performence, usually based on the following
 1. Analytical skills
 - Did you need much help solving problem?
@@ -25,7 +25,7 @@
 
 
 
-## Why?
+## 01-1. Why?
 : Why do things this way? On the following reasons can explain why.
 
 
@@ -48,17 +48,17 @@ Whiteboards also tend to encourage candidates to speak more and explain their th
 
 ### But it's not for everyone or every company or every situation
 
-## How Questions are Selected
+## 01-2. How Questions are Selected
 : At the vast majority of companies, there are no lists of what interviewers should ask. Rather, each interviewer selects their own questions.  
 But within a given category of question, there is little that makes it "belong" to one company instead of another. A Google algorithm is essentially the same as a Facebook algorithm question
 
 
-## It's All Relative
+## 01-3. It's All Relative
 : Interviewers assess you relative to other candidates on that same question by the same interviwers . It's a relative comparision.  
 Your interviewer develops a feel for your performance by comparing you to other people.   
 It's not about the candidates she's interviewing that week. It's about all the candidates that she's ever asked this question to.
 
-## Frequently Asked Questions
+## 01-4. Frequently Asked Questions
 ### I didn't hear back immediately after my interview. Am I rejected?
 : No. Ther are a number of reasons why a company's decision might be delayed.   
 If you haven't heard back from a company within 2-5 business days after your interview, check in politely with your recruiter.
